@@ -1,8 +1,0 @@
-I:\Programming\CSHARP\Plinq\Chapter04\Chapter04\bin\Debug\Chapter04.exe
-I:\Programming\CSHARP\Plinq\Chapter04\Chapter04\bin\Debug\Chapter04.pdb
-I:\Programming\CSHARP\Plinq\Chapter04\Chapter04\obj\Debug\Chapter04.exe
-I:\Programming\CSHARP\Plinq\Chapter04\Chapter04\obj\Debug\Chapter04.pdb
-C:\Users\woorak\Desktop\7월\기술세미나\1주\Chapter04\Chapter04\obj\Debug\Chapter04.exe
-C:\Users\woorak\Desktop\7월\기술세미나\1주\Chapter04\Chapter04\obj\Debug\Chapter04.pdb
-C:\Users\woorak\Desktop\7월\기술세미나\1주\Chapter04\Chapter04\bin\Debug\Chapter04.exe
-C:\Users\woorak\Desktop\7월\기술세미나\1주\Chapter04\Chapter04\bin\Debug\Chapter04.pdb
