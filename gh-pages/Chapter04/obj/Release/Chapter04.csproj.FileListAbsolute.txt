@@ -1,0 +1,5 @@
+C:\Users\woorak\Desktop\7월\기술세미나\1주\Chapter04\Chapter04\bin\Release\Chapter04.exe
+C:\Users\woorak\Desktop\7월\기술세미나\1주\Chapter04\Chapter04\bin\Release\Chapter04.pdb
+C:\Users\woorak\Desktop\7월\기술세미나\1주\Chapter04\Chapter04\obj\Release\Chapter04.csprojResolveAssemblyReference.cache
+C:\Users\woorak\Desktop\7월\기술세미나\1주\Chapter04\Chapter04\obj\Release\Chapter04.exe
+C:\Users\woorak\Desktop\7월\기술세미나\1주\Chapter04\Chapter04\obj\Release\Chapter04.pdb
