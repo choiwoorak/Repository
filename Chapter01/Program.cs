@@ -26,21 +26,21 @@ namespace Chapter01
             int multipleLuckyNumber1 = luckyNumber.multiplyByTwo(); //Extension
             int multipleLuckyNumber2 = InstanceMethods.multiplyByTwo(luckyNumber); //Instance
                                    
-            Func<int,int,int> plus = (a, b) =>  a+b; //Return 존재
-            Action<int, int> minus = (a, b) =>  value = a-b; // Void
+            Func<int,int,int> Plus = (a, b) =>  a+b; //Return 존재
+            Action<int, int> Minus = (a, b) =>  value = a-b; // Void
             // (a,b ) = a+b ;
             // Lamda Expression : (input parameters) => expression
             // Linq Query식을 만드는데 유용하게 사용.                        
             Console.WriteLine(sum);    
-            sum = plus(luckyNumber,unluckyNumber);
+            sum = Plus(luckyNumber,unluckyNumber);
             Console.WriteLine(sum);
 
-            minus(luckyNumber,unluckyNumber);
+            Minus(luckyNumber,unluckyNumber);
             Console.WriteLine(value);
 
             DeferredVsImmediate obj = new DeferredVsImmediate();
             obj.ImmediateRun();
-            obj.deferredRun();
+            obj.DeferredRun();
             
 
             Console.ReadKey();

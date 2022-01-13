@@ -35,7 +35,7 @@ namespace Chapter01
 
         }
 
-        public void deferredRun()
+        public void DeferredRun()
         {
             // Return Type이 IEnumable<T>인 경우 지연 처리
             var lst = from e in empList
